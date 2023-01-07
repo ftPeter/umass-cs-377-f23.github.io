@@ -8,41 +8,38 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </>
-    ),
-  },
-  {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    ),
-  },
-  {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        In this course we examine the important problems in operating system
+        design and implementation. The operating system provides a well-known,
+        convenient, and efficient interface between user programs and the bare
+        hardware of the computer on which they run. The operating system is
+        responsible for allowing resources (e.g., disks, networks, and
+        processors) to be shared, providing common services needed by many
+        different programs (e.g., file service, the ability to start or stop
+        processes, and access to the printer), and protecting individual
+        programs from one another. The course will start with a brief historical
+        perspective of the evolution of operating systems over the last fifty
+        years, and then cover the major components of most operating systems.
+        This discussion will cover the tradeoffs that can be made between
+        performance and functionality during the design and implementation of an
+        operating system. Particular emphasis will be given to three major OS
+        subsystems: process management (processes, threads, CPU scheduling,
+        synchronization, and deadlock), memory management (segmentation, paging,
+        swapping), file systems, and operating system support for distributed
+        systems. This course counts as a CS Elective toward the CS Major.
+        Prerequisites: COMPSCI 230. 4 credits.
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ Svg, title, description }) {
   return (
-    <div className={clsx('col col--4')}>
-      <div className="text--center">
+    <div className={clsx('col col--12')}>
+      {/* <div className="text--center">
         <Svg className={styles.featureSvg} role="img" />
-      </div>
+      </div> */}
       <div className="text--center padding-horiz--md">
-        <h3>{title}</h3>
+        {/* <h3>{title}</h3> */}
         <p>{description}</p>
       </div>
     </div>
