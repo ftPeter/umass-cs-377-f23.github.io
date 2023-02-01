@@ -41,6 +41,10 @@ const config = {
           // editUrl:
           //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
+        // lectures: {
+        //   routeBasePath: '/lectures', // Serve the docs at the site's root
+        //   /* other docs plugin options */
+        // },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
@@ -59,24 +63,27 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Home',
         // logo: {
         //   alt: 'My Site Logo',
         //   src: 'img/logo.svg',
         // },
         items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          { to: '/blog', label: 'Blog', position: 'left' },
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
+          // {
+          //   type: 'doc',
+          //   docId: 'intro',
+          //   position: 'left',
+          //   label: 'Information',
+          // },
+          // { to: '/docs/intro', label: 'Boo', position: 'left' },
+          { to: '/blog', label: 'Announcements', position: 'left' },
+          { to: 'docs/lectures', label: 'Lectures', position: 'left' },
+          // { type: 'doc', docId: 'index', to: '/lectures', label: 'Lectures', position: 'left' },
+          // {
+          //   href: 'https://github.com/facebook/docusaurus',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
