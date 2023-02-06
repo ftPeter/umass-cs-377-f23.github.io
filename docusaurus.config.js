@@ -29,6 +29,11 @@ const config = {
     locales: ['en'],
   },
 
+  plugins: [
+    require.resolve('docusaurus-lunr-search'),
+    './src/plugins/webpack_mod'
+  ],
+
   presets: [
     [
       'classic',
