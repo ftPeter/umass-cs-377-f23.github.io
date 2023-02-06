@@ -1,3 +1,3 @@
-# L12 Common Concurrency Problems
+# L12 Concurrency Problems
 
 Coming soon...

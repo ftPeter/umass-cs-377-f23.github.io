@@ -1,3 +1,3 @@
-# L06 Introduction to CPU Scheduling
+# L06 Introduction to Scheduling
 
 Coming soon...
