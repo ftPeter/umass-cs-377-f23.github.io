@@ -1,3 +1,3 @@
-# L02 Intro to OS
+# L02 Introduction to OS
 
 Coming soon...
