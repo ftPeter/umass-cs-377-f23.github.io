@@ -1,5 +1,7 @@
 import React from 'react';
 import clsx from 'clsx';
+import ThemedImage from '@theme/ThemedImage';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
 
 const FeatureList = [
@@ -25,14 +27,34 @@ const FeatureList = [
         subsystems: process management (processes, threads, CPU scheduling,
         synchronization, and deadlock), memory management (segmentation, paging,
         swapping), file systems, and operating system support for distributed
-        systems. This course counts as a CS Elective toward the CS Major.
-        Prerequisites: COMPSCI 230. 4 credits.
+        systems.
       </>
     ),
   },
 ];
 
 function Feature({ Svg, title, description }) {
+  return (
+    <div className="row">
+      <div className={clsx('col col--4 text--center')}>
+        <ThemedImage
+          alt="377 image"
+          sources={{
+            light: useBaseUrl('img/377.jpg'),
+            dark: useBaseUrl('img/377.jpg'),
+          }}
+        />
+      </div>
+      <div className={clsx('col col--8')}>
+        <div className="">
+          <p>{description}</p>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function FeatureOri({ Svg, title, description }) {
   return (
     <div className={clsx('col col--12')}>
       {/* <div className="text--center">

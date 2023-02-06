@@ -47,6 +47,9 @@ const config = {
         // },
         blog: {
           showReadingTime: true,
+          blogTitle: "Announcements",
+          blogDescription: "Announcements",
+          blogSidebarTitle: "Recent Announcements"
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
@@ -77,7 +80,7 @@ const config = {
           // },
           // { to: '/docs/intro', label: 'Boo', position: 'left' },
           { to: '/blog', label: 'Announcements', position: 'left' },
-          { to: 'docs/lectures', label: 'Lectures', position: 'left' },
+          { to: 'docs/intro', label: 'Material', position: 'left' },
           // { type: 'doc', docId: 'index', to: '/lectures', label: 'Lectures', position: 'left' },
           // {
           //   href: 'https://github.com/facebook/docusaurus',
