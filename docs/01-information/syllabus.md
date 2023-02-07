@@ -30,7 +30,7 @@ The staff for this course support the UMass commitment to diversity, and welcome
 
 - **Lecture** will provide an overview of the topics concerned with operating systems. Typical classes will follow a lecture-style presentation of the material with interaction from students based on examples covered. Occasionally, there may be an in-class activity that is graded. You are expected to attend lectures regularly. Lectures will also be available live on zoom and recorded for viewing after class. We provide this flexibility for your busy lives, but please do not abuse it. We do expect you to attend class on a regular basis.
 
-- **Discussion** will have an associated exercise that you are required to complete. You are expected to begin these exercises during the discussion working with others taking the course. Course staff will be available to answer questions and help guide you through the assignment. You are expected to attend the discussion. Discussions will not be recorded.
+- **Lab** will have an associated exercise that you are required to complete. You are expected to begin these exercises during the discussion working with others taking the course. Course staff will be available to answer questions and help guide you through the assignment. You are expected to attend the labs. Labs will not be recorded.
 
 ## How to Succeed
 
@@ -45,7 +45,7 @@ Your success in this class is important to us. We all learn differently and brin
 
 - **Textbook**: [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP), Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dussea. This is a free textbook available online. While the entire textbook is available for free from this site, if you so wish, a hard copy may be purchased on Amazon.
 
-- **Laptop Computer**: It is highly recommended that you have a laptop computer for the discussion section. If you do not have a portable machine (not Chromebook, not tablet), you should work with another student during the discussion section. Please inform the course staff so we can ensure that you are paired up with another student.
+- **Laptop Computer**: It is highly recommended that you have a laptop computer for the lab section. If you do not have a portable machine (not Chromebook, not tablet), you should work with another student during the lab section. Please inform the course staff so we can ensure that you are paired up with another student.
 
 ## Software Platforms and Tools
 
@@ -89,7 +89,7 @@ There are several different programming editors available for you to choose from
 
 Another great option is [VSCode](https://code.visualstudio.com/) that can be used locally to edit code remotely on the Edlab. This is an excellent editor, but it does require some setup to use [Remote Development using ssh](https://code.visualstudio.com/docs/remote/ssh).
 
-There are many short tutorials out there. We recommend that you do a quick search to find an introductory tutorial to become acquainted with at least one of these editors if you are not already familiar with one of them. You will have some guidance in the first discussion!
+There are many short tutorials out there. We recommend that you do a quick search to find an introductory tutorial to become acquainted with at least one of these editors if you are not already familiar with one of them. You will have some guidance in the first lab!
 
 ## Communication
 
@@ -112,11 +112,11 @@ Although we want you to attend the lecture for your section in person, we unders
 - **Remote Synchronous**: attend the lecture remotely on Zoom and ask questions through the chat system.
 - **Asynchronous**: watch the recorded lecture at a time that is convenient for you.
 
-### Discussion
+### Lab
 
-The discussion section is led by teaching assistants (TAs) for this course. There will also be undergraduate course assistants (UCA) assigned to your discussion section. You are expected to attend every discussion. Discussions are used to begin discussion exercises and get help completing those assignments. Missing a discussion section does not excuse you from any activities that occur during that time. Do not ask to make up any missed work during discussion section time.
+The Lab section is led by teaching assistants (TAs) for this course. There will also be undergraduate course assistants (UCA) assigned to your lab section. You are expected to attend every lab. Labs are used to begin lab exercises and get help completing those assignments. Missing a lab section does not excuse you from any activities that occur during that time. Do not ask to make up any missed work during lab section time.
 
-**Discussions will not be recorded or on Zoom.**
+**Labs will not be recorded or on Zoom.**
 
 ## Rules for Success
 
@@ -148,9 +148,10 @@ You can expect from us:
 The anticipated breakdown of course grades is as follows; this is subject to change.
 
 - Project Assignments (40%)
-- Weekly Quizzes (20%)
+- Weekly Quizzes (15%)
 - Lab Exercises (15%)
-- Final Project (25%)
+- Participation (10%)
+- Final Project (20%)
 
 ### Grading Notes
 
@@ -166,6 +167,8 @@ The anticipated breakdown of course grades is as follows; this is subject to cha
 - **Weekly Quizzes**: There will be a weekly quiz that focuses on the material covered prior to the release of each quiz. These quizzes are cumulative. You are able to take the quiz as many times as necessary to achieve a 100%. Quizzes contain multiple choice style questions covering material from lecture, the reading, and possibly labs and assignments.
   
 - **Lab Exercises**: A lab exercise is a short activity that will focus on expanding your knowledge in a particular topic area. They are often designed to provide guidance for an upcoming project or to enhance your understanding of the content for that week. They are graded both automatically and manually.
+
+- **Participation**: Participation is difficult to measure. However, in general we expect you to be actively engaged in the course. This means that you show up to class and lab regularly. We will be releasing surveys that you will be required to complete during the semester. These surveys will be your participation grade in this course.
 
 - **Final Project**: Towards the end of the semester you will complete a final project. You will work collaboratively in groups of 4 members to design and implement a programming project. You will come up with your own idea for the project and complete it by the end of the semester.
 
@@ -235,7 +238,7 @@ If you have been the victim of sexual violence, gender discrimination, or sexual
 
 ## Attendance and Participation
 
-You are expected to attend class and discussion regularly, read any assigned readings before class, and participate in class discussions and activities. Your participation will be evaluated in a variety of ways. This includes any in class activities or activities that may be given during class or discussion sections. You are responsible for maintaining your own schedule and ensuring that you are present during these activities and/or complete them in a timely manner. It is generally not possible to make up missed activities.
+You are expected to attend class and labs regularly, read any assigned readings before class, and participate in class discussions and activities. Your participation will be evaluated in a variety of ways. This includes any in class activities or activities that may be given during class or lab sections. You are responsible for maintaining your own schedule and ensuring that you are present during these activities and/or complete them in a timely manner. It is generally not possible to make up missed activities.
 
 ## Incompletes
 
