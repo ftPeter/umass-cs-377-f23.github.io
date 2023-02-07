@@ -41,11 +41,11 @@ Meet all the wonderful people who are here to help you have an amazing experienc
     <div class="grid-item">
         <div id="person">
             <div id="img">
-                
+                <img src="/img/calvin.jpg"/>
             </div>
-            <div id="name">Calvin	Chai</div>
+            <div id="name">Calvin Chai</div>
             <div id="bio">
-                Coming soon...
+                I am a first year MSCS student. I also received my BS degrees here at UMass. This is the second semester TAing this course. I took this course back in 2020 and I really enjoyed it. I hope you will do too!
             </div>
         </div>
     </div>  
@@ -90,11 +90,11 @@ Meet all the wonderful people who are here to help you have an amazing experienc
     <div class="grid-item">
         <div id="person">
             <div id="img">
-                
+                <img src="/img/eugene.jpg"/>
             </div>
-            <div id="name">Eugene	Mak</div>
+            <div id="name">Eugene Mak</div>
             <div id="bio">
-                Coming soon...
+                I'm a senior undergrad majoring in computer science and math. I've been a 377 UCA for the past 2 semesters (and a summer). Operating systems is one of my favorite subjects so I hope you have fun with the class! Excited to meet you all!
             </div>
         </div>
     </div>  
