@@ -98,41 +98,49 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Material',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Syllabus',
+                to: 'docs/information/syllabus',
+              },
+              {
+                label: 'Schedule',
+                to: 'docs/information/schedule',
+              },
+              {
+                label: 'Lectures',
+                to: 'docs/lectures',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Assignments',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Projects',
+                to: 'docs/information/schedule/#projects',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Quizzes',
+                to: 'docs/information/schedule/#quizzes',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Final Project',
+                to: 'docs/information/schedule/#final_project',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Learning Systems',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Moodle',
+                href: 'https://umass.moonami.com',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Piazza',
+                href: 'https://piazza.com',
               },
             ],
           },
