@@ -6,7 +6,7 @@ sidebar_position: 2
 
 Below is the projected schedule for *Spring 2023*. You are welcome to visit any of the material at any time. This is the first offering where we are using this website structure for the course. As such, not all the material is currently available, however, we will be updating as we progress through the semester hoping to have the material for each lecture and lab out as early as possible. Each link below will bring you to a page for the particular lecture, lab, assignment, etc. It is your responsibility to monitor the release and due dates of assignments to ensure that you submit on time.
 
-## Lecture Schedule
+## Lectures
 
 - [Tu 2/07 - L01 Course Introduction](../../lectures/intro/)
 - [Th 2/09 - L02 Introduction to OS](../../lectures/intro-os/)
@@ -38,7 +38,7 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 - [Th 5/11 - L25 Project Work](../../lectures/project-work-3/)
 - [Tu 5/15 - L26 Conclusion](../../lectures/conclusion/)
 
-## Lab Schedule
+## Labs
 
 - Fr 2/10 - B01 TBD
 - Fr 2/17 - B02 TBD
@@ -54,3 +54,20 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 - Fr 4/28 - B12 TBD
 - Fr 5/05 - B13 TBD
 - Fr 5/12 - B14 TBD
+
+## Projects
+
+- Project 1 (B: Fr 2/10, D: Fr 2/24)
+- Project 2 (B: Fr 2/17, D: Fr 3/03)
+- Project 3 (B: Fr 3/03, D: Fr 3/24)
+- Project 4 (B: Fr 3/24, D: Fr 4/07)
+- Project 5 (B: Fr 4/07, D: Fr 4/21)
+- Project 6 (B: Fr 4/21, D: Fr 5/05)
+
+## Quizzes
+
+Coming soon...
+
+## Final Project
+
+- Final Project (B: 3/31, D: 5/16)
