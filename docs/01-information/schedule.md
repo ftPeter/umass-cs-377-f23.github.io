@@ -40,20 +40,20 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 
 ## Labs
 
-- Fr 2/10 - B01 TBD
-- Fr 2/17 - B02 TBD
-- Fr 2/24 - B03 TBD
-- Fr 3/03 - B04 TBD
-- Fr 3/10 - B05 TBD
-- Fr 3/17 - B06 TBD
-- Fr 3/24 - B07 TBD
-- Fr 3/31 - B08 TBD
-- Fr 4/07 - B09 TBD
-- Fr 4/14 - B10 TBD
-- Fr 4/21 - B11 TBD
-- Fr 4/28 - B12 TBD
-- Fr 5/05 - B13 TBD
-- Fr 5/12 - B14 TBD
+- Mo 2/13 - B01 TBD
+- Mo 2/20 - B02 TBD
+- Mo 2/27 - B03 TBD
+- Mo 3/06 - B04 TBD
+- Mo 3/13 - B05 TBD
+- Mo 3/20 - B06 TBD
+- Mo 3/27 - B07 TBD
+- Mo 4/03 - B08 TBD
+- Mo 4/10 - B09 TBD
+- Mo 4/17 - B10 TBD
+- Mo 4/24 - B11 TBD
+- Mo 5/01 - B12 TBD
+- Mo 5/08 - B13 TBD
+- Mo 5/15 - B14 TBD
 
 ## Projects
 
