@@ -19,7 +19,7 @@ Docker is an alternative to be used in place of edlab. We built an image that cr
 For example, I will put everything under `/home`
 
 3. Save the following file to the directory
-[docker-compose.yml](./docker-compose.yml)
+[docker-compose.yml](pathname:///docker/docker-compose.yml)
 
     The file structure will be like this. 
     ```
