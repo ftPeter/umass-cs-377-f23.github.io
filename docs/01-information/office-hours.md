@@ -12,7 +12,7 @@ hide_table_of_contents: true
 ## Monday
 
 - **Dave Dirnfeld (he/him)**: 10:00 AM - 11:30 AM, CS207
-- **Yichong Liu, (he/him)**:  1:00 PM - 2:00 PM, 
+- **Yichong Liu, (he/him)**:  1:00 PM - 2:00 PM, LGRC T220
 
 
 ## Tuesday
@@ -22,8 +22,8 @@ hide_table_of_contents: true
 
 ## Wednesday
 
-- **Sage Chircu, (she/her)**: 4:00 PM - 5:00 PM [ZOOM](/)
-- **Yichong Liu, (he/him)**: 1:00 PM - 2:00 PM, 
+- **Sage Chircu, (she/her)**: 4:00 PM - 5:00 PM, [ZOOM](/)
+- **Yichong Liu, (he/him)**: 1:00 PM - 2:00 PM, [ZOOM](/)
 
 
 ## Thursday
@@ -34,4 +34,3 @@ hide_table_of_contents: true
 - **Sage Chircu, (she/her)**: 10:00 AM - 11:00 AM, LGRC T220
 
 ## Saturday
-
