@@ -48,7 +48,7 @@ This exercise contains the following important folders:
   used in C/C++ to share definitions across many C/C++ source files.
 * **lib**: This is where we keep any libraries that we might use. It
   will often be empty.
-* **obj**: This folder is used for [object files](t.ly/LiKq) that are
+* **obj**: This folder is used for [object files](https://stackoverflow.com/questions/7718299/whats-an-object-file-in-c/7718363#:~:text=An%20object%20file%20is%20the,objects%2C%20functions%2C%20etc.)) that are
   generated from the C compilation process. This folder is
   initially empty until you compile your code.
 * **src**: This is the source folder where all code you are submitting
@@ -70,7 +70,7 @@ $ make
 ```
 
 The `make` command will run the C++ compiler to build a program
-[executable](t.ly/hdB2) and a test [executable](t.ly/hdB2). These are
+[executable](http://www.linfo.org/executable.html#:~:text=An%20executable%20file%2C%20also%20called,executable)%20form%20of%20a%20program.&text=Executable%20files%20are%20usually%20stored,%2Fusr%2Flocal%2Fbin.) and a test executable. These are
 often referred to as program *binaries* in Unix/Linux terminology.
 
 In addition, the `make` command will produce a `submission.zip` every
