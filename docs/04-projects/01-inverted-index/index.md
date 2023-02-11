@@ -13,7 +13,7 @@ This project will give you experience writing a simple C++ program and submittin
 
 To get started, follow these steps:
 
-1. Download the [starter code](pathname://projects/zips/project-1.zip).
+1. Download the [starter code](pathname:///projects/zips/project-1.zip).
 2. Unzip the `project.zip` with the following command `unzip -d
    PROJECT project.zip`. This will create a new directory called
    `PROJECT`. You can replace `PROJECT` with a directory name of your
