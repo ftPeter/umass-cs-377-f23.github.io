@@ -148,9 +148,10 @@ You can expect from us:
 The anticipated breakdown of course grades is as follows; this is subject to change.
 
 - Project Assignments (40%)
-- Weekly Quizzes (20%)
+- Weekly Quizzes (15%)
 - Lab Exercises (15%)
-- Final Project (25%)
+- Participation (10%)
+- Final Project (20%)
 
 ### Grading Notes
 
@@ -166,6 +167,8 @@ The anticipated breakdown of course grades is as follows; this is subject to cha
 - **Weekly Quizzes**: There will be a weekly quiz that focuses on the material covered prior to the release of each quiz. These quizzes are cumulative. You are able to take the quiz as many times as necessary to achieve a 100%. Quizzes contain multiple choice style questions covering material from lecture, the reading, and possibly labs and assignments.
   
 - **Lab Exercises**: A lab exercise is a short activity that will focus on expanding your knowledge in a particular topic area. They are often designed to provide guidance for an upcoming project or to enhance your understanding of the content for that week. They are graded both automatically and manually.
+
+- **Participation**: Participation is difficult to measure. However, in general we expect you to be actively engaged in the course. This means that you show up to class and lab regularly. We will be releasing surveys that you will be required to complete during the semester. These surveys will be your participation grade in this course.
 
 - **Final Project**: Towards the end of the semester you will complete a final project. You will work collaboratively in groups of 4 members to design and implement a programming project. You will come up with your own idea for the project and complete it by the end of the semester.
 
