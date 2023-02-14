@@ -12,7 +12,7 @@ hide_table_of_contents: true
 ## Monday
 
 - **Dave Dirnfeld (he/him)**: 10:00 AM - 11:30 AM, CS207
-- **Yichong Liu (he/him)**:    1:00 PM -  2:00 PM, LGRC T220
+- **Yichong Liu (he/him)**:    1:00 PM -  2:00 PM, LGRC T225
 - **Meg Kaki (she/her)**:      3:00 PM -  4:00 PM, LGRT T223 
 - **Eugene Mak, (he/him)**:    4:00 PM -  5:00 PM,  LGRT T222
 
