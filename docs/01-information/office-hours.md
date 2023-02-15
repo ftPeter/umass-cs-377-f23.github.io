@@ -23,9 +23,9 @@ hide_table_of_contents: true
 - **Dave Dirnfeld (he/him)**:  3:30 PM -  5:00 PM, CS207
 
 ## Wednesday
-- **Yichong Liu (he/him)**:    1:00 PM -  2:00 PM, [Zoom Link](https://umass-amherst.zoom.us/u/acB8K3uj2J)
-- **Sage Chircu (she/her)**:   4:00 PM -  5:00 PM, [Zoom Link](https://umass-amherst.zoom.us/u/acB8K3uj2J)
-- **Meg Kaki (she/her)**:      5:00 PM -  6:00 PM, [Zoom Link](https://umass-amherst.zoom.us/u/acB8K3uj2J)
+- **Yichong Liu (he/him)**:    1:00 PM -  2:00 PM, [Zoom Link](https://umass-amherst.zoom.us/j/95878844336)
+- **Sage Chircu (she/her)**:   4:00 PM -  5:00 PM, [Zoom Link](https://umass-amherst.zoom.us/j/95878844336)
+- **Meg Kaki (she/her)**:      5:00 PM -  6:00 PM, [Zoom Link](https://umass-amherst.zoom.us/j/95878844336)
 
 ## Thursday
 - **Calvin Chai (he/him)**:   11:15 AM - 12:45 AM, LGRT T222
