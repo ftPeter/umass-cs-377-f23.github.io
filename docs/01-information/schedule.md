@@ -41,21 +41,6 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 ## Labs
 
 - [Mo 2/13 - Lab 01 Edlab, VSCode, and C++](/docs/labs/lab1)
-<!---
-- Mo 2/20 - Lab 02 TBD
-- Mo 2/27 - Lab 03 TBD
-- Mo 3/06 - Lab 04 TBD
-- Mo 3/13 - Lab 05 TBD
-- Mo 3/20 - Lab 06 TBD
-- Mo 3/27 - Lab 07 TBD
-- Mo 4/03 - Lab 08 TBD
-- Mo 4/10 - Lab 09 TBD
-- Mo 4/17 - Lab 10 TBD
-- Mo 4/24 - Lab 11 TBD
-- Mo 5/01 - Lab 12 TBD
-- Mo 5/08 - Lab 13 TBD
-- Mo 5/15 - Lab 14 TBD
---->
 
 ## Projects
 
