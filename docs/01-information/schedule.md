@@ -40,20 +40,20 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 
 ## Labs
 
-- Mo 2/13 - B01 TBD
-- Mo 2/20 - B02 TBD
-- Mo 2/27 - B03 TBD
-- Mo 3/06 - B04 TBD
-- Mo 3/13 - B05 TBD
-- Mo 3/20 - B06 TBD
-- Mo 3/27 - B07 TBD
-- Mo 4/03 - B08 TBD
-- Mo 4/10 - B09 TBD
-- Mo 4/17 - B10 TBD
-- Mo 4/24 - B11 TBD
-- Mo 5/01 - B12 TBD
-- Mo 5/08 - B13 TBD
-- Mo 5/15 - B14 TBD
+- [Mo 2/13 - Lab 01 Edlab, VSCode, and C++](/docs/labs/lab1)
+- Mo 2/20 - Lab 02 TBD
+- Mo 2/27 - Lab 03 TBD
+- Mo 3/06 - Lab 04 TBD
+- Mo 3/13 - Lab 05 TBD
+- Mo 3/20 - Lab 06 TBD
+- Mo 3/27 - Lab 07 TBD
+- Mo 4/03 - Lab 08 TBD
+- Mo 4/10 - Lab 09 TBD
+- Mo 4/17 - Lab 10 TBD
+- Mo 4/24 - Lab 11 TBD
+- Mo 5/01 - Lab 12 TBD
+- Mo 5/08 - Lab 13 TBD
+- Mo 5/15 - Lab 14 TBD
 
 ## Projects
 
@@ -66,7 +66,7 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 
 ## Quizzes
 
-Coming soon...
+- Quiz 1 (B: Tu 2/14, D: Tu 2/21)
 
 ## Final Project
 
