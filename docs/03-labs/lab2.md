@@ -34,10 +34,10 @@ This repo includes a Makefile that allows you to locally compile and run all the
 
 ## Part 1: Pointers (10 Points)
 
-When programming in C++, we will frequently make use of pointers. Every variable that we make use of in this class has a memory location, which we can access through the ‘&’ operator. When we have such a memory location, we can then access its stored value through the ‘*’ operator. We use this same operator when declaring our pointers in the code. As an example, take the following code:
+When programming in C++, we will frequently make use of pointers. Every variable that we make use of in this class has a memory location, which we can access through the `&` operator. When we have such a memory location, we can then access its stored value through the `*` operator. We use this same operator when declaring our pointers in the code. As an example, take the following code:
 
 
-```C title="pointer.cpp" showLineNumbers
+```cpp title="pointer.cpp" showLineNumbers
 #include <string>
 #include <iostream>
 
@@ -58,13 +58,13 @@ int main() {
 ```
 
 
-As can be seen in the code, pointers allow for a lot of memory reference to be carried out in C++. We can also combine multiple operators together. This means that ‘&(\*pointer)’ will result in just ‘pointer’, but there could be problems if ‘\*(\*pointer)’ is called, since that would be looking at the data stored with memory address of ‘\*pointer’. In general, using '(\*variable)' for something such as 'variable = 1' will throw an error.
+As can be seen in the code, pointers allow for a lot of memory reference to be carried out in C++. We can also combine multiple operators together. This means that` &(*pointer)` will result in just `pointer`, but there could be problems if `*(*pointer)` is called, since that would be looking at the data stored with memory address of `*pointer`. In general, using `(*variable)` for something such as `variable = 1` will throw an error.
 
 ## Part 2: Fork (10 Points)
 
 The fork() command makes a complete copy of the currently running program, running from the same state in which the function was called. For these two copies, we are able to determine which process is the original through the value returned by the fork() command, called the process ID. Process IDs are used by operating systems to identify active processes – when a process runs, the process ID of the next process to start will increment by 1. This means that if we run one process with process ID 22100, and then run 999 more processes on the system, the next process will have a process ID of 23100 instead. As we will see, these IDs allow us to manipulate processes to help us with new actions in our code. Within C++ code, we can use the getpid() command to get the current process id of the process. As an example, take the following code:
 
-```C++ title="fork.cpp" showLineNumbers
+```cpp title="fork.cpp" showLineNumbers
 #include <string>
 #include <iostream>
 #include <stdio.h>
@@ -99,7 +99,7 @@ When you run this code, the parent process should print out its child’s proces
 
 The exec family of functions allows for us to run system commands from C++ code. In general, it is useful for running programs different than the one currently being run. By giving the command the name of an executable and some arguments, it can cause the OS to replace its current process with the loaded code, and simultaneously can pass arguments into the new process. No matter the arguments, the final arguments must always be NULL as to provide an endpoint to the code. Additionally, we can also run system commands such as ‘ls’ and ‘mkdir’ using the exec family of functions. As an example, take the two following pieces of code:
 
-```c++ title="print.cpp" showLineNumbers
+```cpp title="print.cpp" showLineNumbers
 #include <string>
 #include <iostream>
 
@@ -113,7 +113,7 @@ int main(int argc, char *argv[]) {
 }
 ```
 
-```c++ title="exec.cpp" showLineNumbers
+```cpp title="exec.cpp" showLineNumbers
 #include <string>
 #include <stdio.h>
 #include <stdlib.h>
@@ -144,7 +144,7 @@ When ./exec is run after being created from exec.cpp with the ‘make’ command
 
 There are other useful commands we can run when creating and modifying processes. First, we have the wait() and waitpid() commands, which are used to make a process wait until a different process has finished. The wait() function is fairly simple, and makes the process wait until its children finish first. The waitpid() command is slightly more complicated. For this lab and class, we won’t fully go over the options for waitpid(), though it is interesting reading here: https://linux.die.net/man/2/waitpid. For waitpid(), the first parameter is a process ID. If this is a valid process ID (such as the one returned by fork()), then the process will wait until that child process has finished. This will also work if the process ID is negative (for example, pid -1234 will be treated as pid 1234). If the process ID is -1, then the program will wait for any child process to finish, effectively becoming identical to the wait() command. If the process ID is 0, it will wait for any child process with a process group ID equal to that of the parent. As an example of how waitpid() can work with code, take the following example:
 
-```C++ title="wait.cpp" showLineNumbers
+```cpp title="wait.cpp" showLineNumbers
 #include <string>
 #include <iostream>
 #include <stdio.h>
