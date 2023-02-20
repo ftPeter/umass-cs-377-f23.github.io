@@ -49,11 +49,11 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 - [Mo 3/27 - Lab 06 Memory Allocation](/docs/labs/lab6)
 - [Mo 4/03 - Lab 07 Pagewalk](/docs/labs/lab7)
 - [Mo 4/10 - Lab 08 Serialization](/docs/labs/lab8)
-- [Mo 4/17 - B10 TBD](/docs/03-labs/)
-- [Mo 4/24 - B11 TBD](/docs/03-labs/)
-- [Mo 5/01 - B12 TBD](/docs/03-labs/)
-- [Mo 5/08 - B13 TBD](/docs/03-labs/)
-- [Mo 5/15 - B14 TBD](/docs/03-labs/)
+- [Mo 4/17 - Lab 09 TBD](/docs/labs/lab9)
+- [Mo 4/24 - Lab 10 TBD](/docs/labs/lab10)
+- [Mo 5/01 - Lab 11 TBD](/docs/labs/lab11)
+- [Mo 5/08 - Lab 12 TBD](/docs/labs/lab12)
+- [Mo 5/15 - Lab 13 TBD](/docs/labs/lab13)
 
 ## Projects
 
