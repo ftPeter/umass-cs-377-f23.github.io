@@ -40,20 +40,20 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 
 ## Labs
 
-- Mo 2/13 - B01 TBD
-- Mo 2/20 - B02 TBD
-- Mo 2/27 - B03 TBD
-- Mo 3/06 - B04 TBD
-- Mo 3/13 - B05 TBD
-- Mo 3/20 - B06 TBD
-- Mo 3/27 - B07 TBD
-- Mo 4/03 - B08 TBD
-- Mo 4/10 - B09 TBD
-- Mo 4/17 - B10 TBD
-- Mo 4/24 - B11 TBD
-- Mo 5/01 - B12 TBD
-- Mo 5/08 - B13 TBD
-- Mo 5/15 - B14 TBD
+- [Mo 2/13 - Lab 01 Edlab, VSCode, and C++](/docs/labs/lab1)
+- [Mo 2/22 - Lab 02 Fork and Exec](/docs/labs/lab2)
+- [Mo 2/27 - Lab 03 Kill and Errors](/docs/labs/lab3)
+- [Mo 3/06 - Lab 04 Scheduling](/docs/labs/lab4)
+- Mo 3/13 - Spring Recess
+- [Mo 3/20 - Lab 05 Threading](/docs/labs/lab5)
+- [Mo 3/27 - Lab 06 Memory Allocation](/docs/labs/lab6)
+- [Mo 4/03 - Lab 07 Pagewalk](/docs/labs/lab7)
+- [Mo 4/10 - Lab 08 Serialization](/docs/labs/lab8)
+- [Mo 4/17 - B10 TBD](/docs/03-labs/)
+- [Mo 4/24 - B11 TBD](/docs/03-labs/)
+- [Mo 5/01 - B12 TBD](/docs/03-labs/)
+- [Mo 5/08 - B13 TBD](/docs/03-labs/)
+- [Mo 5/15 - B14 TBD](/docs/03-labs/)
 
 ## Projects
 
