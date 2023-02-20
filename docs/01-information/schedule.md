@@ -12,7 +12,7 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 - [Th 2/09 - L02 Introduction to OS](../../lectures/intro-os/)
 - [Tu 2/14 - L03 Process Abstraction](../../lectures/process-abstraction/)
 - [Th 2/16 - L04 Process API](../../lectures/process-api/)
-- [Tu 2/21 - L05 Limited Direct Execution](../../lectures/limited-direct/)
+- [Tu 2/21 - L05 Limited Direct Execution](../../lectures/limited-direct/) (remote)
 - [Th 2/23 - L06 Introduction to CPU Scheduling](../../lectures/intro-cpu-sched/)
 - [Tu 2/28 - L07 Multi-Level Feedback Queue](../../lectures/mlfq/)
 - [Th 3/02 - L08 Introduction to Concurrency](../../lectures/intro-conc/)
@@ -58,7 +58,7 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 ## Projects
 
 - [Project 1 Inverted Index](/docs/projects/inverted-index) (B: Fr 2/10, D: Fr 2/24)
-- Project 2 (B: Fr 2/17, D: Fr 3/03)
+- [Project 2 Shell](/docs/projects/shell) (B: Fr 2/17, D: Fr 3/03)
 - Project 3 (B: Fr 3/03, D: Fr 3/24)
 - Project 4 (B: Fr 3/24, D: Fr 4/07)
 - Project 5 (B: Fr 4/07, D: Fr 4/21)
@@ -66,7 +66,7 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 
 ## Quizzes
 
-Coming soon...
+- Quiz 1 (B: Tu 2/14, D: Tu 2/21)
 
 ## Final Project
 
