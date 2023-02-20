@@ -12,7 +12,7 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 - [Th 2/09 - L02 Introduction to OS](../../lectures/intro-os/)
 - [Tu 2/14 - L03 Process Abstraction](../../lectures/process-abstraction/)
 - [Th 2/16 - L04 Process API](../../lectures/process-api/)
-- [Tu 2/21 - L05 Limited Direct Execution](../../lectures/limited-direct/)
+- [Tu 2/21 - L05 Limited Direct Execution](../../lectures/limited-direct/) (remote)
 - [Th 2/23 - L06 Introduction to CPU Scheduling](../../lectures/intro-cpu-sched/)
 - [Tu 2/28 - L07 Multi-Level Feedback Queue](../../lectures/mlfq/)
 - [Th 3/02 - L08 Introduction to Concurrency](../../lectures/intro-conc/)
