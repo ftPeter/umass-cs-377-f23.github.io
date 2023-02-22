@@ -12,7 +12,7 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 - [Th 2/09 - L02 Introduction to OS](../../lectures/intro-os/)
 - [Tu 2/14 - L03 Process Abstraction](../../lectures/process-abstraction/)
 - [Th 2/16 - L04 Process API](../../lectures/process-api/)
-- [Tu 2/21 - L05 Limited Direct Execution](../../lectures/limited-direct/)
+- [Tu 2/21 - L05 Limited Direct Execution](../../lectures/limited-direct/) (remote)
 - [Th 2/23 - L06 Introduction to CPU Scheduling](../../lectures/intro-cpu-sched/)
 - [Tu 2/28 - L07 Multi-Level Feedback Queue](../../lectures/mlfq/)
 - [Th 3/02 - L08 Introduction to Concurrency](../../lectures/intro-conc/)
@@ -41,6 +41,19 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 ## Labs
 
 - [Mo 2/13 - Lab 01 Edlab, VSCode, and C++](/docs/labs/lab1)
+- [Mo 2/22 - Lab 02 Fork and Exec](/docs/labs/lab2)
+- [Mo 2/27 - Lab 03 Kill and Errors](/docs/labs/lab3)
+- [Mo 3/06 - Lab 04 Scheduling](/docs/labs/lab4)
+- Mo 3/13 - Spring Recess
+- [Mo 3/20 - Lab 05 Threading](/docs/labs/lab5)
+- [Mo 3/27 - Lab 06 Memory Allocation](/docs/labs/lab6)
+- [Mo 4/03 - Lab 07 Pagewalk](/docs/labs/lab7)
+- [Mo 4/10 - Lab 08 Serialization](/docs/labs/lab8)
+- [Mo 4/17 - Lab 09 TBD](/docs/labs/lab9)
+- [Mo 4/24 - Lab 10 TBD](/docs/labs/lab10)
+- [Mo 5/01 - Lab 11 TBD](/docs/labs/lab11)
+- [Mo 5/08 - Lab 12 TBD](/docs/labs/lab12)
+- [Mo 5/15 - Lab 13 TBD](/docs/labs/lab13)
 
 ## Projects
 
@@ -51,9 +64,25 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 - Project 5 (B: Fr 4/07, D: Fr 4/21)
 - Project 6 (B: Fr 4/21, D: Fr 5/05)
 
-## Quizzes
+## Knowledge Boosts
 
-- Quiz 1 (B: Tu 2/14, D: Tu 2/21)
+A *Knowledge Boost* is a quiz that you can take as many times as you
+wish between the begin date (B) and the due date (D). The Knowledge
+Boosts can be found on Moodle under the associated section.
+
+**Mark you calendars with these due dates so you remember to complete
+the knowledge boost on time!**
+
+- Knowledge Boost 01 (B: Tu 2/14, D: Tu 2/21)
+- Knowledge Boost 02 (B: Wd 2/22, D: Wd 3/01)
+- Knowledge Boost 03 (B: Wd 3/01, D: Wd 3/08)
+- Knowledge Boost 04 (B: Wd 3/22, D: Wd 3/29)
+- Knowledge Boost 05 (B: Wd 3/29, D: Wd 4/05)
+- Knowledge Boost 06 (B: Wd 4/05, D: Wd 4/12)
+- Knowledge Boost 07 (B: Wd 4/12, D: Wd 4/19)
+- Knowledge Boost 08 (B: Wd 4/19, D: Wd 4/26)
+- Knowledge Boost 09 (B: Wd 4/26, D: Wd 5/03)
+- Knowledge Boost 10 (B: Wd 5/03, D: Wd 5/10)
 
 ## Final Project
 
