@@ -64,9 +64,25 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 - Project 5 (B: Fr 4/07, D: Fr 4/21)
 - Project 6 (B: Fr 4/21, D: Fr 5/05)
 
-## Quizzes
+## Knowledge Boosts
 
-- Quiz 1 (B: Tu 2/14, D: Tu 2/21)
+A *Knowledge Boost* is a quiz that you can take as many times as you
+wish between the begin date (B) and the due date (D). The Knowledge
+Boosts can be found on Moodle under the associated section.
+
+**Mark you calendars with these due dates so you remember to complete
+the knowledge boost on time!**
+
+- Knowledge Boost 01 (B: Tu 2/14, D: Tu 2/21)
+- Knowledge Boost 02 (B: Wd 2/22, D: Wd 3/01)
+- Knowledge Boost 03 (B: Wd 3/01, D: Wd 3/08)
+- Knowledge Boost 04 (B: Wd 3/22, D: Wd 3/29)
+- Knowledge Boost 05 (B: Wd 3/29, D: Wd 4/05)
+- Knowledge Boost 06 (B: Wd 4/05, D: Wd 4/12)
+- Knowledge Boost 07 (B: Wd 4/12, D: Wd 4/19)
+- Knowledge Boost 08 (B: Wd 4/19, D: Wd 4/26)
+- Knowledge Boost 09 (B: Wd 4/26, D: Wd 5/03)
+- Knowledge Boost 10 (B: Wd 5/03, D: Wd 5/10)
 
 ## Final Project
 
