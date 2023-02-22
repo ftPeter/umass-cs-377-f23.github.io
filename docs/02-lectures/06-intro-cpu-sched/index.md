@@ -1,5 +1,6 @@
 # L06 Introduction to Scheduling
 
+
 > By now low-level mechanisms of running processes (e.g., context switching)
 > should be clear; if they are not, go back a chapter or two, and read the
 > description of how that stuff works again. However, we have yet to understand
