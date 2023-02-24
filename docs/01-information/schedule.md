@@ -57,7 +57,7 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 
 ## Projects
 
-- [Project 1 Inverted Index](/docs/projects/inverted-index) (B: Fr 2/10, D: Fr 2/24)
+- [Project 1 Inverted Index](/docs/projects/inverted-index) (B: Fr 2/10, D: Tu 2/28)
 - [Project 2 Shell](/docs/projects/shell) (B: Fr 2/17, D: Tu 3/07)
 - Project 3 (B: Tu 3/07, D: Tu 3/28)
 - Project 4 (B: Tu 3/28, D: Tu 4/11)
