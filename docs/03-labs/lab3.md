@@ -1,7 +1,9 @@
 ---
+sidebar_position: 4
 hide_table_of_contents: true
 ---
-# Lab 3 
+# Lab 3
+
 
 # COMPSCI 377 LAB: Kill and Errors
 
@@ -119,3 +121,4 @@ A nice overview of using `gdb` can be found in [Dive Into Systems](https://divei
 ## Part 4: Code Review
 
 We have covered how to fork child processes, wait until they complete, and execute new programs in place of child processes. The questions in Gradescope associated with this part examine your knowledge of putting these techniques together for a single program. Any imported assets should be assumed to already be included via the #include header. There is no definitive line limit, but points will be deducted for excessive lines of code.
+

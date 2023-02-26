@@ -49,24 +49,40 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 - [Mo 3/27 - Lab 06 Memory Allocation](/docs/labs/lab6)
 - [Mo 4/03 - Lab 07 Pagewalk](/docs/labs/lab7)
 - [Mo 4/10 - Lab 08 Serialization](/docs/labs/lab8)
-- [Mo 4/17 - B10 TBD](/docs/03-labs/)
-- [Mo 4/24 - B11 TBD](/docs/03-labs/)
-- [Mo 5/01 - B12 TBD](/docs/03-labs/)
-- [Mo 5/08 - B13 TBD](/docs/03-labs/)
-- [Mo 5/15 - B14 TBD](/docs/03-labs/)
+- [Mo 4/17 - Lab 09 TBD](/docs/labs/lab9)
+- [Mo 4/24 - Lab 10 TBD](/docs/labs/lab10)
+- [Mo 5/01 - Lab 11 TBD](/docs/labs/lab11)
+- [Mo 5/08 - Lab 12 TBD](/docs/labs/lab12)
+- [Mo 5/15 - Lab 13 TBD](/docs/labs/lab13)
 
 ## Projects
 
-- [Project 1 Inverted Index](/docs/projects/inverted-index) (B: Fr 2/10, D: Fr 2/24)
-- [Project 2 Shell](/docs/projects/shell) (B: Fr 2/17, D: Fr 3/03)
-- Project 3 (B: Fr 3/03, D: Fr 3/24)
-- Project 4 (B: Fr 3/24, D: Fr 4/07)
-- Project 5 (B: Fr 4/07, D: Fr 4/21)
-- Project 6 (B: Fr 4/21, D: Fr 5/05)
+- [Project 1 Inverted Index](/docs/projects/inverted-index) (B: Fr 2/10, D: Tu 2/28)
+- [Project 2 Shell](/docs/projects/shell) (B: Fr 2/17, D: Tu 3/07)
+- Project 3 (B: Tu 3/07, D: Tu 3/28)
+- Project 4 (B: Tu 3/28, D: Tu 4/11)
+- Project 5 (B: Tu 4/11, D: Tu 4/25)
+- Project 6 (B: Tu 4/25, D: Tu 5/09)
 
-## Quizzes
+## Knowledge Boosts
 
-- Quiz 1 (B: Tu 2/14, D: Tu 2/21)
+A *Knowledge Boost* is a quiz that you can take as many times as you
+wish between the begin date (B) and the due date (D). The Knowledge
+Boosts can be found on Moodle under the associated section.
+
+**Mark you calendars with these due dates so you remember to complete
+the knowledge boost on time!**
+
+- Knowledge Boost 01 (B: Tu 2/14, D: Tu 2/21)
+- Knowledge Boost 02 (B: Wd 2/22, D: Wd 3/01)
+- Knowledge Boost 03 (B: Wd 3/01, D: Wd 3/08)
+- Knowledge Boost 04 (B: Wd 3/22, D: Wd 3/29)
+- Knowledge Boost 05 (B: Wd 3/29, D: Wd 4/05)
+- Knowledge Boost 06 (B: Wd 4/05, D: Wd 4/12)
+- Knowledge Boost 07 (B: Wd 4/12, D: Wd 4/19)
+- Knowledge Boost 08 (B: Wd 4/19, D: Wd 4/26)
+- Knowledge Boost 09 (B: Wd 4/26, D: Wd 5/03)
+- Knowledge Boost 10 (B: Wd 5/03, D: Wd 5/10)
 
 ## Final Project
 

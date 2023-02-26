@@ -74,7 +74,7 @@ environment.
 
 ## Reading
 
-- [Chapter 6 Mechanism: Limited Direct Executioni](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-mechanisms.pdf).
+- [Chapter 6 Mechanism: Limited Direct Execution](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-mechanisms.pdf).
 
 You may find it helpful to clone the book's [code repository](https://github.com/remzi-arpacidusseau/ostep-code). This will allow you to quickly review the code associated with each chapter.
 
