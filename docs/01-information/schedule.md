@@ -14,31 +14,33 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 - [Th 2/16 - L04 Process API](../../lectures/process-api/)
 - [Tu 2/21 - L05 Limited Direct Execution](../../lectures/limited-direct/) (remote)
 - [Th 2/23 - L06 Introduction to CPU Scheduling](../../lectures/intro-cpu-sched/)
-- [Tu 2/28 - L07 Multi-Level Feedback Queue](../../lectures/mlfq/)
-- [Th 3/02 - L08 Introduction to Concurrency](../../lectures/intro-conc/)
-- [Tu 3/07 - L09 Locks](../../lectures/locks/)
-- [Th 3/09 - L10 Condition Variables](../../lectures/cond-vars/)
+- *Tu 2/28 - No Class, Snow Day*
+- [Th 3/02 - L07 Multi-Level Feedback Queue](../../lectures/mlfq/)
+- [Tu 3/07 - L08 Introduction to Concurrency](../../lectures/intro-conc/)
+- [Th 3/09 - L09 Locks](../../lectures/locks/)
 - Tu 3/14 - No Class, Spring Recess
 - Th 3/16 - No Class, Spring Recess
-- [Tu 3/21 - L11 Semaphores](../../lectures/semaphores/)
-- [Th 3/23 - L12 Common Concurrency Problems](../../lectures/conc-problems/)
-- [Tu 3/28 - L13 Address Spaces](../../lectures/addr-spaces/)
-- [Th 3/30 - L14 Segmentation and Free Space](../../lectures/seg-free-space/)
-- [Tu 4/04 - L15 Introduction to Paging](../../lectures/intro-paging/)
-- [Th 4/06 - L16 Faster Translations](../../lectures/faster-impl/)
-- [Tu 4/11 - L17 Paging Smaller Tables](../../lectures/paging-smaller-tables/)
-- [Th 4/13 - L18 I/O](../../lectures/io/)
+- [Tu 3/21 - L10 Condition Variables](../../lectures/cond-vars/)
+- [Th 3/23 - L11 Semaphores](../../lectures/semaphores/)
+- [Tu 3/28 - L12 Common Concurrency Problems](../../lectures/conc-problems/)
+- [Th 3/30 - L13 Address Spaces](../../lectures/addr-spaces/)
+- [Tu 4/04 - L14 Segmentation and Free Space](../../lectures/seg-free-space/)
+- [Th 4/06 - L15 Introduction to Paging](../../lectures/intro-paging/)
+- [Tu 4/11 - L16 Faster Translations](../../lectures/faster-impl/)
+- [Th 4/13 - L17 Paging Smaller Tables](../../lectures/paging-smaller-tables/)
 - Tu 4/18 - No Class, Patriot’s Day
-- [Th 4/20 - L19 File System Introduction](../../lectures/fs-intro/)
-- [Tu 4/25 - L20 File System Implementation](../../lectures/fs-impl/)
-- [Th 4/27 - L21 Disks](../../lectures/disks/)
-- [Tu 5/02 - L22 Distributed Systems](../../lectures/dist-sys/)
-- [Th 5/04 - L23 Project Work](../../lectures/project-work-1/)
-- [Tu 5/09 - L24 Project Work](../../lectures/project-work-2/)
-- [Th 5/11 - L25 Project Work](../../lectures/project-work-3/)
+- [Th 4/20 - L18 I/O](../../lectures/io/)
+- [Tu 4/25 - L19 File System Introduction](../../lectures/fs-intro/)
+- [Th 4/27 - L20 File System Implementation](../../lectures/fs-impl/)
+- [Tu 5/02 - L21 Disks](../../lectures/disks/)
+- [Th 5/04 - L22 Distributed Systems](../../lectures/dist-sys/)
+- [Tu 5/09 - L23 Project Work](../../lectures/project-work-1/)
+- [Th 5/11 - L24 Project Work](../../lectures/project-work-2/)
 - [Tu 5/15 - L26 Conclusion](../../lectures/conclusion/)
 
 ## Labs
+
+*All lab assignments are due by the following Tuesday by 11:59 PM unless otherwise specified.*
 
 - [Mo 2/13 - Lab 01 Edlab, VSCode, and C++](/docs/labs/lab1)
 - [Mo 2/22 - Lab 02 Fork and Exec](/docs/labs/lab2)
@@ -57,6 +59,8 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 
 ## Projects
 
+*All project assignments are due on Tuesdays by 11:59 PM unless otherwise specified.*
+
 - [Project 1 Inverted Index](/docs/projects/inverted-index) (B: Fr 2/10, D: Tu 2/28)
 - [Project 2 Shell](/docs/projects/shell) (B: Fr 2/17, D: Tu 3/07)
 - Project 3 (B: Tu 3/07, D: Tu 3/28)
@@ -65,6 +69,8 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 - Project 6 (B: Tu 4/25, D: Tu 5/09)
 
 ## Knowledge Boosts
+
+*All knowledge boosts are due by the following Wednesday by 11:59 PM unless otherwise specified.*
 
 A *Knowledge Boost* is a quiz that you can take as many times as you
 wish between the begin date (B) and the due date (D). The Knowledge
