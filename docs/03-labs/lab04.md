@@ -2,7 +2,7 @@
 sidebar_position: 4
 hide_table_of_contents: true
 ---
-# Lab 4
+# Lab 04
 
 # COMPSCI 377 Scheduling Lab
 

@@ -2,7 +2,7 @@
 sidebar_position: 4
 hide_table_of_contents: true
 ---
-# Lab 2
+# Lab 02
 
 # COMPSCI 377 LAB: Fork and Exec
 
