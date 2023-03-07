@@ -2,7 +2,7 @@
 sidebar_position: 4
 hide_table_of_contents: true
 ---
-# Lab 3
+# Lab 03
 
 
 # COMPSCI 377 LAB: Kill and Errors

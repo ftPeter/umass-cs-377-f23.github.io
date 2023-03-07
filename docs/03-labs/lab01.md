@@ -2,7 +2,7 @@
 sidebar_position: 4
 hide_table_of_contents: true
 ---
-# Lab 1
+# Lab 01
 
 ## COMPSCI 377 LAB: Edlab, VSCode, and C++
 

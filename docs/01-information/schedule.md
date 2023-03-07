@@ -42,16 +42,16 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 
 *All lab assignments are due by the following Tuesday by 11:59 PM unless otherwise specified.*
 
-- [Mo 2/13 - Lab 01 Edlab, VSCode, and C++](/docs/labs/lab1)
-- [Mo 2/22 - Lab 02 Fork and Exec](/docs/labs/lab2)
-- [Mo 2/27 - Lab 03 Kill and Errors](/docs/labs/lab3)
-- [Mo 3/06 - Lab 04 Scheduling](/docs/labs/lab4)
+- [Mo 2/13 - Lab 01 Edlab, VSCode, and C++](/docs/labs/lab01)
+- [Mo 2/22 - Lab 02 Fork and Exec](/docs/labs/lab02)
+- [Mo 2/27 - Lab 03 Kill and Errors](/docs/labs/lab03)
+- [Mo 3/06 - Lab 04 Scheduling](/docs/labs/lab04)
 - Mo 3/13 - Spring Recess
-- [Mo 3/20 - Lab 05 Threading](/docs/labs/lab5)
-- [Mo 3/27 - Lab 06 Memory Allocation](/docs/labs/lab6)
-- [Mo 4/03 - Lab 07 Pagewalk](/docs/labs/lab7)
-- [Mo 4/10 - Lab 08 Serialization](/docs/labs/lab8)
-- [Mo 4/17 - Lab 09 TBD](/docs/labs/lab9)
+- [Mo 3/20 - Lab 05 Threading](/docs/labs/lab05)
+- [Mo 3/27 - Lab 06 Memory Allocation](/docs/labs/lab06)
+- [Mo 4/03 - Lab 07 Pagewalk](/docs/labs/lab07)
+- [Mo 4/10 - Lab 08 Serialization](/docs/labs/lab08)
+- [Mo 4/17 - Lab 09 TBD](/docs/labs/lab09)
 - [Mo 4/24 - Lab 10 TBD](/docs/labs/lab10)
 - [Mo 5/01 - Lab 11 TBD](/docs/labs/lab11)
 - [Mo 5/08 - Lab 12 TBD](/docs/labs/lab12)

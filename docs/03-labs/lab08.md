@@ -3,6 +3,6 @@ sidebar_position: 4
 hide_table_of_contents: true
 ---
 
-# Lab 8
+# Lab 08
 
 Coming soon...

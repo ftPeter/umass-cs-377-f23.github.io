@@ -1,6 +1,6 @@
 # Pr2: Shell
 
-The purpose of this lab is to gain experience working with system calls and
+The purpose of this project is to gain experience working with system calls and
 process management. In particular, you are to implement a basic shell in C/C++
 using the `fork`, `exec`, and `wait` system calls.
 
