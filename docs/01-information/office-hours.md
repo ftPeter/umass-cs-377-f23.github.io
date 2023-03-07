@@ -12,13 +12,13 @@ hide_table_of_contents: true
 ## Monday
 
 - **Dave Dirnfeld (he/him)**: 10:00 AM - 11:30 AM, CS207
-- **Yichong Liu (he/him)**:    1:00 PM -  2:00 PM, LGRT T225
+- **Yichong Liu (he/him)**:    12:00 PM -  1:00 PM, LGRT T225
 - **Meg Kaki (she/her)**:      3:00 PM -  4:00 PM, LGRT T223 
 - **Eugene Mak, (he/him)**:    4:00 PM -  5:00 PM,  LGRT T222
 
 ## Tuesday
 
-- **Tim Richards (he/him)**:  10:00 AM - 12:00 PM, LGRC A351A
+- **Tim Richards (he/him)**:  [Make an appointment](https://eight-army-4c0.notion.site/Office-Hours-1debbdaf4a0f4e19b369f5c3bdca63f0), LGRC A351A
 - **Calvin Chai (he/him)**:   11:15 AM - 12:45 PM, LGRT T222
 - **Eugene Mak, (he/him)**:    2:00 PM -  3:00 PM, LGRT T222
 - **Dave Dirnfeld (he/him)**:  3:30 PM -  5:00 PM, CS207
@@ -32,7 +32,7 @@ hide_table_of_contents: true
 ## Thursday
 
 - **Calvin Chai (he/him)**:   11:15 AM - 12:45 AM, LGRT T222
-- **Tim Richards (he/him)**:  3:00 PM - 5:00 PM, LGRC A351A
+- **Tim Richards (he/him)**:  [Make an appointment](https://eight-army-4c0.notion.site/Office-Hours-1debbdaf4a0f4e19b369f5c3bdca63f0), LGRC A351A
 
 ## Friday
 
