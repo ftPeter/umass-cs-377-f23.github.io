@@ -1,6 +1,6 @@
 # Pr2: Shell
 
-The purpose of this lab is to gain experience working with system calls and
+The purpose of this project is to gain experience working with system calls and
 process management. In particular, you are to implement a basic shell in C/C++
 using the `fork`, `exec`, and `wait` system calls.
 
@@ -82,9 +82,9 @@ Gradescope to submit your solution. See submission instructions below.
 
 This project will produce a couple of executables including:
 
-* `inverter_app`: this is the main executable allowing you to run the
+* `tsh_app`: this is the main executable allowing you to run the
   program that you must complete successfully.
-* `inverter_test`: this is the test executable that will run tests on the
+* `tsh_test`: this is the test executable that will run tests on the
   code your write for this exercise.
   
 ### Testing The Code
