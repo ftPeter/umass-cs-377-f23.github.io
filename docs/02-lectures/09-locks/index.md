@@ -110,7 +110,7 @@ git clone https://github.com/remzi-arpacidusseau/ostep-code.git
 
 ## Slides
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ20SixBw9aOPaWDMGJkrx8art8XNjyaMN3MBZvaZ54DpHoonZWLr0ELBruWjJmNcpFNauXaLyUNrhz/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ20SixBw9aOPaWDMGJkrx8art8XNjyaMN3MBZvaZ54DpHoonZWLr0ELBruWjJmNcpFNauXaLyUNrhz/embed?start=false&loop=false&delayms=3000" frameborder="0" width="660" height="269" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 The slide deck can be found [here](https://docs.google.com/presentation/d/1X8Mj0Llah1YrW8g6sB59RE9L4Z9XfkOpm_N_LkeKYes/edit#slide=id.p).
 

@@ -70,9 +70,11 @@ git clone https://github.com/remzi-arpacidusseau/ostep-code.git
 
 ## Slides
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS0K399AATzwiuGqasbPtD4_F5CF0flwc60krTxuwpJCEULGwGAqWt0mrm4Kch56x2zk8220u9KBkKT/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS0K399AATzwiuGqasbPtD4_F5CF0flwc60krTxuwpJCEULGwGAqWt0mrm4Kch56x2zk8220u9KBkKT/embed?start=false&loop=false&delayms=3000" frameborder="0" width="660" height="269" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 The slide deck can be found [here](https://docs.google.com/presentation/d/1uOaxr3rJqNQPwFhleMDWKf89e6wbCnHG4qhGtUlEX9Y/edit?usp=sharing).
+
+The Jamboard can be found [here](https://jamboard.google.com/d/1O136fJxawgZ7paK5zSQinTOT2_zldXZy2e6bS77SdyE/edit?usp=sharing).
 
 ## C/C++ Resources
 
