@@ -26,11 +26,11 @@ hide_table_of_contents: true
 
 - **Yichong Liu (he/him)**:    1:00 PM -  2:00 PM, [Zoom Link](https://umass-amherst.zoom.us/j/95878844336)
 - **Sage Chircu (she/her)**:   4:00 PM -  5:00 PM, [Zoom Link](https://umass-amherst.zoom.us/j/95878844336)
-- **Meg Kaki (she/her)**:      5:00 PM -  6:00 PM, [Zoom Link](https://umass-amherst.zoom.us/j/95878844336)
 
 ## Thursday
 
 - **Calvin Chai (he/him)**:   11:15 AM - 12:45 AM, LGRT T222
+- **Meg Kaki (she/her)**:      2:30 PM -  3:30 PM, [Zoom Link](https://umass-amherst.zoom.us/j/95878844336)
 - **Tim Richards (he/him)**:  [Make an appointment](https://eight-army-4c0.notion.site/Office-Hours-1debbdaf4a0f4e19b369f5c3bdca63f0), LGRC A351A
 
 ## Friday
