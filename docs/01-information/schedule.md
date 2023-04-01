@@ -92,4 +92,4 @@ the knowledge boost on time!**
 
 ## Final Project
 
-- Final Project (B: 3/31, D: 5/16)
+- Final Project (B: 4/7, D: 5/16)
