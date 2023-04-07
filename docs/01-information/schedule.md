@@ -48,8 +48,14 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 - [Mo 3/06 - Lab 04 Scheduling](/docs/labs/lab04)
 - Mo 3/13 - Spring Recess
 - Mo 3/20 - No Lab
+<<<<<<< HEAD
 - [Mo 3/27 - Lab 05 Threading](/docs/labs/lab05)
 - [Mo 4/03 - Lab 06 Memory Allocation](/docs/labs/lab06)
+=======
+
+- [Mo 3/27 - Lab 05 Threading](/docs/labs/lab5)
+- [Mo 4/03 - Lab 06 Memory Allocation](/docs/labs/lab6)
+>>>>>>> refs/remotes/origin/dave-labs
 -  Mo 4/10 - Help Session
 - [Mo 4/17 - Lab 07 Pagewalk](/docs/labs/lab07)
 - [Mo 4/24 - Lab 08 Serialization](/docs/labs/lab08)
@@ -64,7 +70,7 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 - [Project 1 Inverted Index](/docs/projects/inverted-index) (B: Fr 2/10, D: Fr 2/24)
 - [Project 2 Shell](/docs/projects/shell) (B: Fr 2/17, D: Fr 3/07)
 - [Project 3 Scheduling](/docs/projects/scheduling) (B: Fr 3/07, Tu 3/28)
-- Project 4 (B: Tu 3/28, D: Tu 4/11)
+- [Project 4 Producer/Consumer](/docs/projects/prodcon) (B: Tu 3/28, D: Tu 4/11)
 - Project 5 (B: Tu 4/11, D: Tu 4/25)
 - Project 6 (B: Tu 4/25, D: Tu 5/09)
 
@@ -92,4 +98,4 @@ the knowledge boost on time!**
 
 ## Final Project
 
-- Final Project (B: 3/31, D: 5/16)
+- Final Project (B: 4/7, D: 5/16)
