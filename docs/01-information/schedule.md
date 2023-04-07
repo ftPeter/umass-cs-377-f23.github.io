@@ -51,11 +51,6 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 <<<<<<< HEAD
 - [Mo 3/27 - Lab 05 Threading](/docs/labs/lab05)
 - [Mo 4/03 - Lab 06 Memory Allocation](/docs/labs/lab06)
-=======
-
-- [Mo 3/27 - Lab 05 Threading](/docs/labs/lab5)
-- [Mo 4/03 - Lab 06 Memory Allocation](/docs/labs/lab6)
->>>>>>> refs/remotes/origin/dave-labs
 -  Mo 4/10 - Help Session
 - [Mo 4/17 - Lab 07 Pagewalk](/docs/labs/lab07)
 - [Mo 4/24 - Lab 08 Serialization](/docs/labs/lab08)
