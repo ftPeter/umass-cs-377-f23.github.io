@@ -48,7 +48,6 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 - [Mo 3/06 - Lab 04 Scheduling](/docs/labs/lab04)
 - Mo 3/13 - Spring Recess
 - Mo 3/20 - No Lab
-<<<<<<< HEAD
 - [Mo 3/27 - Lab 05 Threading](/docs/labs/lab05)
 - [Mo 4/03 - Lab 06 Memory Allocation](/docs/labs/lab06)
 -  Mo 4/10 - Help Session
