@@ -84,7 +84,7 @@ the knowledge boost on time!**
 - Knowledge Boost 03 (B: Wd 3/01, D: Wd 3/08)
 - Knowledge Boost 04 (B: Wd 3/22, D: Wd 3/29)
 - Knowledge Boost 05 (B: Wd 3/29, D: Wd 4/05)
-- Knowledge Boost 06 (B: Wd 4/05, D: Wd 4/12)
+- ~~Knowledge Boost 06 (B: Wd 4/05, D: Wd 4/12)~~ (Cancelled)
 - Knowledge Boost 07 (B: Wd 4/12, D: Wd 4/19)
 - Knowledge Boost 08 (B: Wd 4/19, D: Wd 4/26)
 - Knowledge Boost 09 (B: Wd 4/26, D: Wd 5/03)
