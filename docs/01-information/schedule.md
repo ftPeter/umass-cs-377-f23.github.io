@@ -92,4 +92,4 @@ the knowledge boost on time!**
 
 ## Final Project
 
-- Final Project (B: 4/7, D: 5/16)
+- [Final Project](https://eight-army-4c0.notion.site/Operating-Systems-Final-Project-6e4e4ea0f93a4a56b0a7c4fb388255ce) (B: 4/7, D: 5/17)
