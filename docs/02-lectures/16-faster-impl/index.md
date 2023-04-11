@@ -27,7 +27,7 @@ git clone https://github.com/remzi-arpacidusseau/ostep-code.git
 ## Slides
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQWIz-WKe6Iyh0liyau3mZrwV6aEAX9wY9-hSXqteJBIpO8NO_Ohlyf3TryxKWobTFgJfUU2_6SsqKY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
+The slide deck can be found [here](https://docs.google.com/presentation/d/1qIQorVRUu6KMd32hKt9WDqkSI5ZGmADQlW66ccR2r9E/edit#slide=id.p).
 ## Jamboard
 
 Jamboards are used for a place to organically write/draw during class.
