@@ -65,7 +65,7 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 - [Project 2 Shell](/docs/projects/shell) (B: Fr 2/17, D: Fr 3/07)
 - [Project 3 Scheduling](/docs/projects/scheduling) (B: Fr 3/07, Tu 3/28)
 - [Project 4 Producer/Consumer](/docs/projects/prodcon) (B: Tu 3/28, D: Tu 4/11)
-- Project 5 (B: Tu 4/11, D: Tu 4/25)
+- [Project 5](/docs/projects/allocator) (B: Tu 4/11, D: Tu 4/25)
 - Project 6 (B: Tu 4/25, D: Tu 5/09)
 
 ## Knowledge Boosts
