@@ -176,7 +176,7 @@ int​​myFileSystem::close_disk​()
 
 We will use a 128KB file to act as the "disk" for your file system. We have provided a program to create this file for you and format it. Run this program by typing the command:
 
-![create_fs disk0](./pics/create-fs.png "create_fs disk0")
+![create_fs disk0](pathname:///projects/pics/project-6/create-fs.png "create_fs disk0")
 
 This will create a file with the name ​*disk0*​ in your current directory. The program also "formats" your file system - this is done by initializing all blocks in the super block to be free and marking all 16 inodes to be free.
 
