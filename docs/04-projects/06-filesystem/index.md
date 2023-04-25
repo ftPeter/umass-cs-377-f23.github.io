@@ -15,15 +15,10 @@ The goal of this lab is to write a simple UNIX-like file system based on the top
 To get started, follow these steps:
 
 1. Download the [starter code](pathname:///projects/zips/project-6.zip).
-2. Unzip the `project.zip` with the following command `unzip -d
-   PROJECT project.zip`. This will create a new directory called
-   `PROJECT`. You can replace `PROJECT` with a directory name of your
-   choice.
+2. Unzip the `project.zip` with the following command `unzip -d PROJECT project.zip`. This will create a new directory called `PROJECT`. You can replace `PROJECT` with a directory name of your choice.
 3. `cd` into the `PROJECT` directory and investigate the project. 
 
-If you follow the above steps correctly, you should have the following
-folder structure after unzipping (assuming the project name is
-"PROJECT"):
+If you follow the above steps correctly, you should have the following folder structure after unzipping (assuming the project name is "PROJECT"):
 
 ```
 PROJECT/
@@ -35,31 +30,19 @@ PROJECT/
   Makefile
 ```
 
-After you have the code extracted you should go ahead and
-investigate. You can run `make` from the *command line* and your
-project will *build* and produce *potential* error results. See more
+After you have the code extracted you should go ahead and investigate. You can run `make` from the *command line* and your project will *build* and produce *potential* error results. See more
 information below.
 
 ## Code Structure
 
 This exercise contains the following important folders:
 
-* **include**: This is where we keep [C/C++ header
-  files](https://flaviocopes.com/c-header-files/). Header files are
-  used in C/C++ to share definitions across many C/C++ source files.
-* **lib**: This is where we keep any libraries that we might use. It
-  will often be empty.
-* **obj**: This folder is used for [object files](t.ly/LiKq) that are
-  generated from the C compilation process. This folder is
-  initially empty until you compile your code.
-* **src**: This is the source folder where all code you are submitting
-  must go. You can change anything you want in this folder (unless
-  otherwise specified in the problem description and in the code we
-  provide), you can add new files, etc.
-* **test**: This is the test folder where you can find all of the
-  public unit tests - if any are given.
-* **Makefile** - this is a "build" file. This file is used to compile
-  your code.
+* **include**: This is where we keep [C/C++ header files](https://flaviocopes.com/c-header-files/). Header files are used in C/C++ to share definitions across many C/C++ source files.
+* **lib**: This is where we keep any libraries that we might use. It will often be empty.
+* **obj**: This folder is used for [object files](http://t.ly/LiKq) that are generated from the C compilation process. This folder is initially empty until you compile your code.
+* **src**: This is the source folder where all code you are submitting must go. You can change anything you want in this folder (unless otherwise specified in the problem description and in the code we provide), you can add new files, etc.
+* **test**: This is the test folder where you can find all of the public unit tests - if any are given.
+* **Makefile** - this is a "build" file. This file is used to compile your code.
 
 ## Compiling The Code
 
@@ -80,14 +63,12 @@ This project will produce a couple of executables including:
 
 * `fs_app`: this is the main executable allowing you to run the
   program that you must complete successfully.
-* `fs_test`: this is the test executable that will run tests on the
-  code your write for this exercise.
+* `fs_test`: this is the test executable that will run tests on the code your write for this exercise.
 * `create_fs`: a provided program for creating and formatting a new file system.
   
 ### Testing The Code
 
-After you have successfully compiled the code using `make` you can run
-the test executable. Here is an example of what it looks like to run a
+After you have successfully compiled the code using `make` you can run the test executable. Here is an example of what it looks like to run a
 test executable:
 
 ```bash
@@ -106,9 +87,7 @@ $ ./hello_test
 [  PASSED  ] 2 tests.
 ```
 
-The tests that are provided are a *subset* of the tests that the
-autograder will run. However, it gives you a good idea if you are on
-the right track.
+The tests that are provided are a *subset* of the tests that the autograder will run. However, it gives you a good idea if you are on the right track.
 
 ## Instructions
 
@@ -130,7 +109,7 @@ The layout of your 128 KB disk is as follows:
 
 Initially, all inodes are free. Each inode stores the following information:
 
-![Inode Info](./projects/pics/project-6/Inode-info.png "Inode Info")
+![Inode Info](/projects/pics/project-6/Inode-info.png "Inode Info")
 
 Note that each inode is 48 bytes in size, since a char has size 1 and an int has size 4. Together, all 16 inodes take up 768 bytes. Combining this with the free block list gives us a total size of 896 bytes for the super block. The super block may not fill the 1 KB, but start writing file blocks after 1 KB into the disk.
 
@@ -190,11 +169,11 @@ Remember that your file system must be **​persistent**​. If you shutdown you
 
 Your program should take input from an input file and perform actions specified in the file, while printing out the result of each action. The format of the input file is as follows.
 
-![Input Format](./pics/input-format.png "Input Format")
+![Input Format](/projects/pics/project-6/input-format.png "Input Format")
 
 A sample input file looks like this:
 
-![Sample Input](./pics/input-sample.png "Sample Input")
+![Sample Input](/projects/pics/project-6/input-sample.png "Sample Input")
 
 A sample input file is also provided in the starter code test directory (`test/sample.txt`).
 
