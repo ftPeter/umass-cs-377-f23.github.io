@@ -50,12 +50,12 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 - Mo 3/20 - No Lab
 - [Mo 3/27 - Lab 05 Threading](/docs/labs/lab05)
 - [Mo 4/03 - Lab 06 Memory Allocation](/docs/labs/lab06)
-- [Mo 4/10 - Lab 07 Pagewalk](/docs/labs/lab07)
-- [Mo 4/17 - Lab 08 Serialization](/docs/labs/lab08)
-- [Mo 4/24 - Lab 09 TBD](/docs/labs/lab09)
-- [Mo 5/01 - Lab 10 TBD](/docs/labs/lab10)
-- [Mo 5/08 - Lab 11 TBD](/docs/labs/lab11)
-- [Mo 5/15 - Lab 12 TBD](/docs/labs/lab12)
+- Mo 4/10 - Help Session
+- Mo 4/17 - University Holiday
+- [Mo 4/24 - Lab 07 Pagewalk](/docs/labs/lab07)
+- [Mo 5/01 - Lab 08 Serialization](/docs/labs/lab08)
+- [Mo 5/08 - Lab 09 TBD](/docs/labs/lab09)
+- [Mo 5/15 - Lab 10 TBD](/docs/labs/lab10)
 
 ## Projects
 
@@ -65,8 +65,8 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 - [Project 2 Shell](/docs/projects/shell) (B: Fr 2/17, D: Fr 3/07)
 - [Project 3 Scheduling](/docs/projects/scheduling) (B: Fr 3/07, Tu 3/28)
 - [Project 4 Producer/Consumer](/docs/projects/prodcon) (B: Tu 3/28, D: Tu 4/11)
-- Project 5 (B: Tu 4/11, D: Tu 4/25)
-- Project 6 (B: Tu 4/25, D: Tu 5/09)
+- [Project 5 Allocator](/docs/projects/allocator) (B: Tu 4/11, D: Tu 4/25)
+- [Project 6 File System](/docs/projects/filesystem) (B: Tu 4/25, D: Tu 5/09)
 
 ## Knowledge Boosts
 
@@ -84,12 +84,12 @@ the knowledge boost on time!**
 - Knowledge Boost 03 (B: Wd 3/01, D: Wd 3/08)
 - Knowledge Boost 04 (B: Wd 3/22, D: Wd 3/29)
 - Knowledge Boost 05 (B: Wd 3/29, D: Wd 4/05)
-- Knowledge Boost 06 (B: Wd 4/05, D: Wd 4/12)
-- Knowledge Boost 07 (B: Wd 4/12, D: Wd 4/19)
-- Knowledge Boost 08 (B: Wd 4/19, D: Wd 4/26)
+- **No Knowledge Boost (Wd 4/05, Wd 4/12)**
+- Knowledge Boost 06 (B: Wd 4/12, D: Wd 4/19)
+- Knowledge Boost 07 (B: Wd 4/19, D: Wd 4/26)
 - Knowledge Boost 09 (B: Wd 4/26, D: Wd 5/03)
-- Knowledge Boost 10 (B: Wd 5/03, D: Wd 5/10)
+- Knowledge Boost 09 (B: Wd 5/03, D: Wd 5/10)
 
 ## Final Project
 
-- Final Project (B: 3/31, D: 5/16)
+- [Final Project](https://eight-army-4c0.notion.site/Operating-Systems-Final-Project-6e4e4ea0f93a4a56b0a7c4fb388255ce) (B: 4/7, D: 5/17)

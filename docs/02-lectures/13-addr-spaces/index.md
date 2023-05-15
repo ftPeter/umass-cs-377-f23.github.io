@@ -15,6 +15,7 @@ To summarize, address spaces are an essential concept in operating systems, allo
 ## Reading
 
 - [Chapter 13: The Abstraction: Address Spaces](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf)
+- [Chapter 15: Mechanism: Address Spaces](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-mechanisms.pdf)
 
 ### Reference
 

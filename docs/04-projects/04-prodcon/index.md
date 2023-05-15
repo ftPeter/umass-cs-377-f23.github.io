@@ -215,15 +215,15 @@ We provided you with three helper functions: `print_account()`, `recordFail()`, 
 `Worker [worker_id] completed ledger [ledger_id]: deposit [amount] into account [accountID]`
 
 - Withdraw: This function should decrease the balance by the `amount` of the account given by `accountID`. On success, you should log the message:
-`Worker [worker_id] completed ledger [ledger_id]: withdraw [amount] into account [accountID]`
+`Worker [worker_id] completed ledger [ledger_id]: withdraw [amount] from account [accountID]`
 On failure, you should log the message:
-`Worker [worker_id] failed to complete ledger [ledger_id]: withdraw [amount] into account [accountID]`
+`Worker [worker_id] failed to complete ledger [ledger_id]: withdraw [amount] from account [accountID]`
 
-- Withdraw: This function transfers money from one account `srcID` to another account `destID` of `amount`. You need to be careful how you take locks to avoid deadlocks. 
+- Transfer: This function transfers money from one account `srcID` to another account `destID` of `amount`. You need to be careful how you take locks to avoid deadlocks. 
 On success, you should log:
-`Worker [worker_id] completed ledger [ledger_id]: transfer [amount] into account [accountID]`. 
+`Worker [worker_id] completed ledger [ledger_id]: transfer [amount] from account [srcID] to account [destID]`. 
 One failure you should log:
-`Worker [worker_id] failed to complete ledger [ledger_id]: transfer [amount] into account [accountID]`.
+`Worker [worker_id] failed to complete ledger [ledger_id]: transfer [amount] from account [srcID] to account [destID]`.
 
 ## Debugging Help
 
