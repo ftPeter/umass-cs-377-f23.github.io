@@ -97,6 +97,26 @@ const config = {
           // { to: '/docs/intro', label: 'Boo', position: 'left' },
           { to: "/blog", label: "Announcements", position: "left" },
           { to: "docs/intro", label: "Material", position: "left" },
+          {
+            to: "docs/information/syllabus",
+            label: "Syllabus",
+            position: "left",
+          },
+          {
+            to: "docs/information/schedule",
+            label: "Schedule",
+            position: "left",
+          },
+          {
+            to: "docs/lectures",
+            label: "Lectures",
+            position: "left",
+          },
+          {
+            to: "docs/information/office-hours",
+            label: "Office Hours",
+            position: "left",
+          },
           // { type: 'doc', docId: 'index', to: '/lectures', label: 'Lectures', position: 'left' },
           // {
           //   href: 'https://github.com/facebook/docusaurus',
